@@ -1,0 +1,4 @@
+# Add one domain per line (no http/https prefix).
+# Lines starting with # are ignored.
+# Example:
+# example-gambling-site.com
